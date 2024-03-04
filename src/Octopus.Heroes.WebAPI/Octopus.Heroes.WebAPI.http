@@ -1,0 +1,6 @@
+@Octopus.Heroes.WebAPI_HostAddress = http://localhost:5115
+
+GET {{Octopus.Heroes.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
